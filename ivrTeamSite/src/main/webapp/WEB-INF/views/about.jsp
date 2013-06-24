@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>IVR Application Design and Development Team - Home</title>
+<title>IVR Application Design and Development Team - About Us</title>
 <link rel="icon" href="images/favicon.gif" type="image/x-icon"/>
  <!--[if lt IE 9]>
  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -18,13 +18,13 @@
     <!--start header-->
     <header>
       <!--start logo-->
-      <a href="#" id="logo"><img src="resources/images/VF_ICON_RGB.png" width="180" height="180" alt="logo"/></a>    
+      <a href="www.voda" id="logo"><img src="resources/images/VF_ICON_RGB.png" width="180" height="180" alt="logo"/></a>    
       <!--end logo-->
       <!--start menu-->
   	   <nav>
          <ul>
-         <li><a href="#" class="current">Home</a></li>
-         <li><a href="about">About us</a></li>
+         <li><a href="home" >Home</a></li>
+         <li><a href="#" class="current">About us</a></li>
      	   <li><a href="#">Strategy & Innovation</a></li>
      	   <li><a href="#">Customers</a></li>
          <li><a href="#">Processes</a></li>
@@ -36,7 +36,7 @@
    <!--start intro-->
    <section id="intro">
       <hgroup>
-      <h1>IVR Application Design and Development Team</h1>
+      <h1>About Us</h1>
       <h2>
 	</h2>
      </hgroup>
